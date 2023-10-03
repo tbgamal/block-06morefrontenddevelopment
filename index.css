@@ -1,0 +1,30 @@
+h1, h2, h3 {
+  color:blueviolet;
+  background-color: yellow;
+  display: inline-block;
+}
+
+p {
+  border: solid 2px lightgreen;
+  padding: 25px;  
+}
+
+div {
+  border: solid black 2px;
+  background-color: aqua;
+}
+
+table, td, th {
+  border: solid 2px black;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+th {
+  background-color: lightgray;
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: ;
+}
